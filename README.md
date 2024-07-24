@@ -14,7 +14,7 @@ The main code for model training is not included as it is still under improvemen
 - `Normalization file for AAPP-1`
 
 ## Data Analysis
-- **Epoch vs Accuracy vs Loss:**
+- **Epoch vs Accuracy vs Loss (100 thousand epoch):**
   ![Epoch vs Accuracy vs Loss](image/eal.png)
 - **Training Time:** 2 hours and 40 minutes and 6 seconds
 - **Epochs:** 500 thousand
