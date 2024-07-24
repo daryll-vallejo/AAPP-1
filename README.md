@@ -19,6 +19,9 @@ The main code for model training is not included as it is still under improvemen
 - **Training Time:** 2 hours and 40 minutes and 6 seconds
 - **Epochs:** 500 thousand
 
+## Compiler
+- **Cxxdroid (Android)**
+
 ## Future Objectives
 - **AAPP-2**
   - Increase model accuracy
