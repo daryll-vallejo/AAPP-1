@@ -22,5 +22,6 @@ The main code for model training is not included as it is still under improvemen
 ## Future Objectives
 - **AAPP-2**
   - Increase model accuracy
+  - Improve model framework for faster training
   - Add new features (e.g., study time, study habits factor)
   - Use real statistics test set for model evaluation
