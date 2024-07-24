@@ -15,7 +15,7 @@ The main code for model training is not included as it is still under improvemen
 
 ## Data Analysis
 - **Epoch vs Accuracy vs Loss:**
-  ![Epoch vs Accuracy vs Loss](images/eal.png)
+  ![Epoch vs Accuracy vs Loss](image/eal.png)
 - **Dataset Plot:**
   ![Dataset Plot](+)
 - **Training Time:** 2 hours and 40 minutes and 6 seconds
